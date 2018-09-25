@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: c4ac95434e094dd4a868df9184b1640a
+timeCreated: 1485025532
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hamster_idle_03_[280,340]_0
+    21300002: Hamster_idle_03_[280,340]_1
+    21300004: Hamster_idle_03_[280,340]_2
+    21300006: Hamster_idle_03_[280,340]_3
+    21300008: Hamster_idle_03_[280,340]_4
+    21300010: Hamster_idle_03_[280,340]_5
+    21300012: Hamster_idle_03_[280,340]_6
+    21300014: Hamster_idle_03_[280,340]_7
+    21300016: Hamster_idle_03_[280,340]_8
+    21300018: Hamster_idle_03_[280,340]_9
+    21300020: Hamster_idle_03_[280,340]_10
+    21300022: Hamster_idle_03_[280,340]_11
+    21300024: Hamster_idle_03_[280,340]_12
+    21300026: Hamster_idle_03_[280,340]_13
+    21300028: Hamster_idle_03_[280,340]_14
+    21300030: Hamster_idle_03_[280,340]_15
+    21300032: Hamster_idle_03_[280,340]_16
+    21300034: Hamster_idle_03_[280,340]_17
+    21300036: Hamster_idle_03_[280,340]_18
+    21300038: Hamster_idle_03_[280,340]_19
+    21300040: Hamster_idle_03_[280,340]_20
+    21300042: Hamster_idle_03_[280,340]_21
+    21300044: Hamster_idle_03_[280,340]_22
+    21300046: Hamster_idle_03_[280,340]_23
+    21300048: Hamster_idle_03_[280,340]_24
+    21300050: Hamster_idle_03_[280,340]_25
+    21300052: Hamster_idle_03_[280,340]_26
+    21300054: Hamster_idle_03_[280,340]_27
+    21300056: Hamster_idle_03_[280,340]_28
+    21300058: Hamster_idle_03_[280,340]_29
+    21300060: Hamster_idle_03_[280,340]_30
+    21300062: Hamster_idle_03_[280,340]_31
+    21300064: Hamster_idle_03_[280,340]_32
+    21300066: Hamster_idle_03_[280,340]_33
+    21300068: Hamster_idle_03_[280,340]_34
+    21300070: Hamster_idle_03_[280,340]_35
+    21300072: Hamster_idle_03_[280,340]_36
+    21300074: Hamster_idle_03_[280,340]_37
+    21300076: Hamster_idle_03_[280,340]_38
+    21300078: Hamster_idle_03_[280,340]_39
+    21300080: Hamster_idle_03_[280,340]_40
+    21300082: Hamster_idle_03_[280,340]_41
+    21300084: Hamster_idle_03_[280,340]_42
+    21300086: Hamster_idle_03_[280,340]_43
+    21300088: Hamster_idle_03_[280,340]_44
+    21300090: Hamster_idle_03_[280,340]_45
+    21300092: Hamster_idle_03_[280,340]_46
+    21300094: Hamster_idle_03_[280,340]_47
+    21300096: Hamster_idle_03_[280,340]_48
+    21300098: Hamster_idle_03_[280,340]_49
+    21300100: Hamster_idle_03_[280,340]_50
+    21300102: Hamster_idle_03_[280,340]_51
+    21300104: Hamster_idle_03_[280,340]_52
+    21300106: Hamster_idle_03_[280,340]_53
+    21300108: Hamster_idle_03_[280,340]_54
+    21300110: Hamster_idle_03_[280,340]_55
+    21300112: Hamster_idle_03_[280,340]_56
+    21300114: Hamster_idle_03_[280,340]_57
+    21300116: Hamster_idle_03_[280,340]_58
+    21300118: Hamster_idle_03_[280,340]_59
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2720
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2720
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2720
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2720
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2720
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2720
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_6
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2720
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2380
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2380
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_9
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2380
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2380
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_11
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2380
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_12
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2380
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_13
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2380
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2040
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_16
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2040
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_17
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2040
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_18
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2040
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_19
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2040
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_20
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2040
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1700
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1700
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1700
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_24
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1700
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_25
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1700
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_26
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1700
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_27
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1700
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_29
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1360
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_30
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1360
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_31
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1360
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_32
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1360
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_33
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1360
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_34
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1360
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1020
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1020
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_38
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1020
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_39
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1020
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_40
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1020
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_41
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1020
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_43
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 680
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_44
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 680
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_45
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 680
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_46
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 680
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_47
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 680
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_48
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 680
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_50
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 340
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_51
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 340
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_52
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 340
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_53
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 340
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_54
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 340
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_55
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 340
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_58
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_03_[280,340]_59
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

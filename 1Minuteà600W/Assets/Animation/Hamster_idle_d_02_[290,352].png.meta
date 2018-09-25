@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: d2263b32c89289346a8dff2dfa738206
+timeCreated: 1485023809
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hamster_idle_d_02_[290,352]_0
+    21300002: Hamster_idle_d_02_[290,352]_1
+    21300004: Hamster_idle_d_02_[290,352]_2
+    21300006: Hamster_idle_d_02_[290,352]_3
+    21300008: Hamster_idle_d_02_[290,352]_4
+    21300010: Hamster_idle_d_02_[290,352]_5
+    21300012: Hamster_idle_d_02_[290,352]_6
+    21300014: Hamster_idle_d_02_[290,352]_7
+    21300016: Hamster_idle_d_02_[290,352]_8
+    21300018: Hamster_idle_d_02_[290,352]_9
+    21300020: Hamster_idle_d_02_[290,352]_10
+    21300022: Hamster_idle_d_02_[290,352]_11
+    21300024: Hamster_idle_d_02_[290,352]_12
+    21300026: Hamster_idle_d_02_[290,352]_13
+    21300028: Hamster_idle_d_02_[290,352]_14
+    21300030: Hamster_idle_d_02_[290,352]_15
+    21300032: Hamster_idle_d_02_[290,352]_16
+    21300034: Hamster_idle_d_02_[290,352]_17
+    21300036: Hamster_idle_d_02_[290,352]_18
+    21300038: Hamster_idle_d_02_[290,352]_19
+    21300040: Hamster_idle_d_02_[290,352]_20
+    21300042: Hamster_idle_d_02_[290,352]_21
+    21300044: Hamster_idle_d_02_[290,352]_22
+    21300046: Hamster_idle_d_02_[290,352]_23
+    21300048: Hamster_idle_d_02_[290,352]_24
+    21300050: Hamster_idle_d_02_[290,352]_25
+    21300052: Hamster_idle_d_02_[290,352]_26
+    21300054: Hamster_idle_d_02_[290,352]_27
+    21300056: Hamster_idle_d_02_[290,352]_28
+    21300058: Hamster_idle_d_02_[290,352]_29
+    21300060: Hamster_idle_d_02_[290,352]_30
+    21300062: Hamster_idle_d_02_[290,352]_31
+    21300064: Hamster_idle_d_02_[290,352]_32
+    21300066: Hamster_idle_d_02_[290,352]_33
+    21300068: Hamster_idle_d_02_[290,352]_34
+    21300070: Hamster_idle_d_02_[290,352]_35
+    21300072: Hamster_idle_d_02_[290,352]_36
+    21300074: Hamster_idle_d_02_[290,352]_37
+    21300076: Hamster_idle_d_02_[290,352]_38
+    21300078: Hamster_idle_d_02_[290,352]_39
+    21300080: Hamster_idle_d_02_[290,352]_40
+    21300082: Hamster_idle_d_02_[290,352]_41
+    21300084: Hamster_idle_d_02_[290,352]_42
+    21300086: Hamster_idle_d_02_[290,352]_43
+    21300088: Hamster_idle_d_02_[290,352]_44
+    21300090: Hamster_idle_d_02_[290,352]_45
+    21300092: Hamster_idle_d_02_[290,352]_46
+    21300094: Hamster_idle_d_02_[290,352]_47
+    21300096: Hamster_idle_d_02_[290,352]_48
+    21300098: Hamster_idle_d_02_[290,352]_49
+    21300100: Hamster_idle_d_02_[290,352]_50
+    21300102: Hamster_idle_d_02_[290,352]_51
+    21300104: Hamster_idle_d_02_[290,352]_52
+    21300106: Hamster_idle_d_02_[290,352]_53
+    21300108: Hamster_idle_d_02_[290,352]_54
+    21300110: Hamster_idle_d_02_[290,352]_55
+    21300112: Hamster_idle_d_02_[290,352]_56
+    21300114: Hamster_idle_d_02_[290,352]_57
+    21300116: Hamster_idle_d_02_[290,352]_58
+    21300118: Hamster_idle_d_02_[290,352]_59
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2816
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2816
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_3
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2816
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_4
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2816
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_5
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2816
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_6
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2816
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2464
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2464
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_9
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2464
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_10
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2464
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_11
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2464
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_12
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2464
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_13
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2464
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_15
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2112
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_16
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2112
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_17
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2112
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_18
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2112
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_19
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2112
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_20
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2112
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1760
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_23
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1760
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_24
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1760
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_25
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1760
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_26
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1760
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_27
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1760
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1408
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_30
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1408
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_31
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1408
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_32
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1408
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_33
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1408
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_34
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1408
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1056
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_37
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1056
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_38
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1056
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_39
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1056
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_40
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1056
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_41
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1056
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_43
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 704
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_44
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 704
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_45
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 704
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_46
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 704
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_47
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 704
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_48
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 704
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_50
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 352
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_51
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 352
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_52
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 352
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_53
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 352
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_54
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 352
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_55
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 352
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_57
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_58
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hamster_idle_d_02_[290,352]_59
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 290
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
